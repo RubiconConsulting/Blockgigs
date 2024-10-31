@@ -52,7 +52,7 @@ BlockGigs is a decentralized, Web3-enabled hiring marketplace. Our goal is to br
 ## Getting Started
 
 ### For Professionals
-1. **Sign Up**: Visit [BlockGigs](#) to create an account.
+1. **Sign Up**: Visit [www.blockgigs.xyz](#) to create an account.
 2. **Complete Profile**: Add your skills, experience, and portfolio to build a comprehensive anonymous profile.
 3. **Browse Jobs**: Use the job board to search for roles that match your skill set and interests.
 4. **Apply and Connect**: Apply for jobs, chat with employers, and receive offers.
