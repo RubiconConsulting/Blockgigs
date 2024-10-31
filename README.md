@@ -3,7 +3,7 @@ BlockGigs is a decentralized hiring platform that connects Africa’s top talent
 
 We’re not just building a platform; we’re building the future of work in Web3. Join us on this journey as we help blockchain professionals connect with companies that drive technological advancement and innovation in Africa and beyond.
 
-Table of Contents
+# Table of Contents
 About BlockGigs
 Core Features
 Getting Started
