@@ -59,7 +59,7 @@ BlockGigs is a decentralized, Web3-enabled hiring marketplace. Our goal is to br
 5. **Get Paid**: Work on projects and get paid seamlessly through our decentralized payment system.
 
 ### For Companies
-1. **Register Your Company**: Visit [BlockGigs](#) and create an account for your company.
+1. **Register Your Company**: Visit [www.blockgigs.xyz] and create an account for your company.
 2. **Post a Job**: Provide details about the role, skills required, and project specifications.
 3. **Review Candidates**: View anonymous profiles of applicants and shortlist those who meet your needs.
 4. **Interview and Hire**: Connect directly, conduct interviews, and onboard selected candidates.
@@ -93,7 +93,7 @@ BlockGigs is powered by Web3 and blockchain technologies to ensure secure, decen
 - **IPFS**: Decentralized file storage for user data and job postings.
 - **Smart Contracts**: Automate and secure transactions, payments, and contractual agreements.
 - **React**: Frontend development for a dynamic and responsive user experience.
-- **Node.js**: Backend infrastructure for handling platform operations and data management.
+- **Next.js**: Backend infrastructure for handling platform operations and data management.
 - **Decentralized Identity Solutions**: Ensuring secure identity management and authentication.
 
 ---
@@ -107,10 +107,6 @@ We welcome contributions to help improve BlockGigs! To contribute:
 3. Make your changes and commit them.
 4. Open a pull request with a detailed description of your work.
 
-### Code of Conduct
-
-BlockGigs is committed to creating a positive, inclusive environment for all contributors and users. Please follow our [Code of Conduct](./CODE_OF_CONDUCT.md) when participating.
-
 ---
 
 ## License
@@ -123,9 +119,9 @@ This project is licensed under the MIT License - see the [LICENSE](./LICENSE) fi
 
 Have questions, feedback, or suggestions? Reach out to us:
 
-- **Email**: support@blockgigs.io
-- **Twitter**: [@blockgigs](https://twitter.com/blockgigs)
-- **Website**: [BlockGigs](#)
+- **Email**: info.rubiconconsulting@gmail.com
+- **Linkedin**: [@Rubikcon](https://www.linkedin.com/company/rubicon-consults/)
+- **Website**: [www.blockgigs.xyz]
 
 ---
 
