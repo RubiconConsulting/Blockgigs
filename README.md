@@ -119,9 +119,9 @@ This project is licensed under the MIT License - see the [LICENSE](./LICENSE) fi
 
 Have questions, feedback, or suggestions? Reach out to us:
 
-- **Email**: info.rubiconconsulting@gmail.com
-- **Linkedin**: [@Rubikcon](https://www.linkedin.com/company/rubicon-consults/)
-- **Website**: [www.blockgigs.xyz]
+- **Email**: [info.rubiconconsulting@gmail.com](mailto:info.rubiconconsulting@gmail.com)  
+- **LinkedIn**: [@Rubikcon](https://www.linkedin.com/company/rubicon-consults/)  
+- **Website**: [www.blockgigs.xyz](https://www.blockgigs.xyz)
 
 ---
 
